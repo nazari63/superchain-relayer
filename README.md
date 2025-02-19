@@ -15,3 +15,4 @@ As a pre-requisite, you will need to install Node and Foundry. Follow the instru
    ```
 3. Start the frontend with `pnpm dev`
 4. Open localhost:5173 in your browser
+This project is a demonstration of blockchain technology and smart contract integration.
